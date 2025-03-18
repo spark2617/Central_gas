@@ -205,7 +205,5 @@ def NotificarUsuarioSobreExpectativa():
    
 
 ## 📌 Conclusão
-Este projeto integra um aplicativo mobile com um backend robusto em Django, permitindo gestão eficiente de clientes, empresas, produtos e pedidos.
-
-Se precisar de mais informações, entre em contato! 📩
+Este projeto integra um aplicativo mobile com um backend em Django, permitindo gestão eficiente de clientes, empresas, produtos e pedidos.
 
